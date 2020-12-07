@@ -1,2 +1,2 @@
 # tubesTBA
-Repo Tugas Besar Teori Bahasa dan Automata (TBA)
+Repo Tugas Besar Kelompok 10 Teori Bahasa dan Automata (TBA)
